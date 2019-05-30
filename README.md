@@ -17,6 +17,6 @@ CONTROLS
 GAME STORY SUMMARY
 Maintenance is due on Kazama station. A unique bug has infested the hive network on the station resulting in all of the bots to eternally loop their final 3 seconds of activity. While the station may be lost, the data they have collected may be of some value. It’s up to you to collect this data and ONLY this data. Any interaction with the bots and their data logs are to be avoided at all costs.
 
-Repository contains a brief 10 pager Game Design Doc and both a Windows and Mac build for the game.
+Repository contains alink to a MEGA download, since Github has a limit of 25mb per file. MEGA download contains a brief 10 pager Game Design Doc and both a Windows and Mac build for the game.
 
 Done as a Project for Introduction to 3D Game Development module as part of the Entertainment Systems course in WIT.
