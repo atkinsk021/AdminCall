@@ -21,4 +21,4 @@ Repository README contains a link to a MEGA download, since Github has a limit o
 
 Done as a Project for Introduction to 3D Game Development module as part of the Entertainment Systems course in WIT.
 
-MEGA Download link : https://mega.nz/#!oMxkAYRa!apTCpfUjPmIhQqTqTpteGa1a2_sXrWIeRG7Rtt2yFiE
+Itch.io download link : https://skeletonkev.itch.io/admin-call
